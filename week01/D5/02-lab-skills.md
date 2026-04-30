@@ -18,6 +18,8 @@
 | D | **canvas-design** | 设计"供给与需求"教学海报 | 一张 PNG/SVG 教学海报 |
 | E | **wechat-article-writer** | 撰写"CPI 到底在测什么"科普文章 | 一篇面向大众的经济学科普文 |
 
+> **Week 3 预告：** 这些是通用 Skills。Elite20 有两个专属 Skills —— **paper-reviewer.skill**（学术论文审稿，已嵌入 KSTAR 框架）和 **elite20-g2-validator.skill**（挑战提交自动验证，G2 关卡专用）。今天先学会"用"Skill，Week 3 你会"写"自己的 Skill。
+
 ---
 
 ### Step 2 — 先读 SKILL.md（5分钟）
@@ -99,6 +101,8 @@
   - 中文撰写
 ```
 
+> **💡 这个任务和 paper-reviewer.skill 做的事很像——Week 3 你会用那个专属 Skill 做更专业的版本。**
+
 #### 选项 D — canvas-design: 教学海报
 
 ```
@@ -165,7 +169,7 @@ git push
 ## Close — 周末任务播种（5分钟）
 
 ### 学生指令
-> "周末花15分钟思考一个问题：**下周你要用完整的 K-S-T-A-R 循环解决一个真实任务。这个任务来自你的经济学学习或教学。** 在 `reflections/D5-weekend.md` 里写 2-3 句话描述你的任务想法。
+> "周末花15分钟思考一个问题：**下周你要用完整的 KSTAR 循环解决一个真实任务。这个任务来自你的经济学学习或教学。** 在 `reflections/D5-weekend.md` 里写 2-3 句话描述你的任务想法。
 >
 > 格式：
 > ```
@@ -183,5 +187,6 @@ git push
 
 ## 经济学教授备注
 - 5 个 Skill 选项覆盖了经济学的核心工作流：教学（docx）、数据（xlsx）、研究（pdf）、可视化（canvas-design）、传播（wechat-article-writer）
+- paper-reviewer.skill 和 elite20-g2-validator.skill 的预告是为 Week 3 播种——今天不需要展开
 - D5-weekend 的选题会直接影响 D9 项目的可行性——如果某个学生的任务太大（如"用 AI 写一篇论文"），引导他们缩小到"用 AI 做论文中的文献综述部分"或"用 AI 整理论文的数据表格"
 - 建议你自己也选一个选项现场做，展示"教授也在用 AI"
