@@ -42,7 +42,7 @@ export OPENAI_API_KEY="sk-..."
 ## 🧾 Evidence Ledger
 
 - AI 开发日志：[AI_LOG.md](AI_LOG.md)
-- 拿来说明：[REUSE.md](REUSE.md)
+- 拿来说明：[ATTRIBUTION.md](ATTRIBUTION.md)
 - 方案设计：[PROPOSAL.md](PROPOSAL.md)
 - 方案草案：[PROPOSAL_DRAFT.md](PROPOSAL_DRAFT.md)
 - G1 背书：[G1_ENDORSEMENT.md](G1_ENDORSEMENT.md)
